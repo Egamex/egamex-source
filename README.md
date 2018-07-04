@@ -1,6 +1,4 @@
 
-![Alt Text](https://raw.githubusercontent.com/Egamex/Wallets/master/img/wallets/windows/egamex-banner.PNG)
-
 
 ## EgameX!
 
