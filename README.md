@@ -1,5 +1,5 @@
 
-![Alt Text](https://raw.githubusercontent.com/Egamex/images/blob/master/egamex_mundo.jpg)
+![Alt Text](https://github.com/Egamex/images/commits/master/egamex_mundo.jpg)
 
 
 ## EgameX!
